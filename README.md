@@ -1,2 +1,2 @@
-# head_massager
+# scalp_massager
 WIP
