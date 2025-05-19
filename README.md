@@ -83,7 +83,7 @@ All 3D models and mechanical design files are located in the [`cad/`](cad/) fold
 
 ## Assets
 
-- High-resolution project photos and wiring diagrams are in the [`assets/`](assets/) folder.
+High-resolution project photos and wiring diagrams are in the [`assets/`](assets/) folder.
 
 ---
 
@@ -98,11 +98,16 @@ Find the Arduino sketch and supporting firmware code in the [`firmware/`](firmwa
 For convenience, here are direct Amazon links to the components used in this project:
 
 - [ESP32 Development Board](https://www.amazon.com/dp/B0718T232Z)
-- [Bidirectional Logic Level Converter (5V to 3.3V)](https://www.amazon.com/dp/B08G4M9C8G)
+- [Bidirectional Logic Level Converter (5V to 3.3V)](https://www.amazon.com/dp/B07F7W91LC)
 - [4-Channel Relay Module with Optocoupler (12V)](https://www.amazon.com/AEDIKO-Channel-Optocoupler-Support-Trigger/dp/B099MC4TJD?th=1)
-- [12V Linear Actuator](https://www.amazon.com/dp/B07Q1ZV4MJ)
+- [12V Linear Actuator](https://www.amazon.com/dp/B09X9GTLVN)
 - [Solderless Breadboard](https://www.amazon.com/dp/B07DL13RZH)
 - [12V Rechargeable Lithium Battery Pack](https://www.amazon.com/dp/B0C241NS29)
-- [Lithium Battery Charger](https://www.amazon.com/dp/B07F7W91LC)
+- [10mmx3mm Mini Vibration Motors DC 3V 12000rpm Flat Coin Button-Type Micro DC Vibrating Motor](https://www.amazon.com/dp/B07Q1ZV4MJ)
+
+---
+
+### Optional (Mounting)
+- [InnoGear Boom Arm Microphone Mic Stand for Blue Yeti HyperX QuadCast SoloCast Snowball Fifine Shure SM7B and other Mic, Large](https://www.amazon.com/dp/B08G4M9C8G)
 
 ---
