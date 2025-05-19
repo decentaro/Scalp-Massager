@@ -2,8 +2,8 @@
 #include <ESPmDNS.h>
 
 // WiFi credentials for network connection
-const char* ssid = "NETGEAR15";
-const char* password = "helpfulunicorn456";
+const char* ssid = "your_SSID";
+const char* password = "your_PASSWORD";
 
 // Pin declarations for actuator and vibration
 const int forwardPin = 4;    // Pin to extend the actuator
