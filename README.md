@@ -2,9 +2,14 @@
 
 A DIY scalp massager project using ESP32, designed to be remotely controlled via a Wi-Fi server. The project utilizes various components to control a 12V linear actuator, allowing smooth and adjustable massaging movements.
 
+<p align="center">
+  <img src="assets/image1.png" alt="Scalp Massager" width="500"/>
+</p>
+
+
 ---
 
-## 🛠️ Components Used
+## Components Used
 
 - **ESP32** - Microcontroller with built-in Wi-Fi support.
 - **Bidirectional 5V to 3V Converter** - Voltage level shifter.
@@ -14,11 +19,20 @@ A DIY scalp massager project using ESP32, designed to be remotely controlled via
 - **12V Lithium Battery Rechargeable Pack** - Power source for the actuator.
 - **Arduino IDE** - Used for programming the ESP32.
 
-*Wiring diagrams and 3D models used will be provided soon.*
+<p align="center">
+  <img src="assets/scalp-masseuse.png" alt="Scalp Masseuse Prototype" width="500"/>
+</p>
+
+
+<p align="center">
+  <img src="assets/wiring-diagram.png" alt="Wiring Diagram" width="500"/>
+</p>
+
+
 
 ---
 
-## 🌐 Features
+## Features
 
 - **Wi-Fi Server**: Allows remote control and configuration.
 - **Relay Control**: Manages the actuator movement.
@@ -27,11 +41,12 @@ A DIY scalp massager project using ESP32, designed to be remotely controlled via
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/scalp-massager.git cd scalp-massager
+git clone https://github.com/decentaro/scalp-massager.git 
+cd scalp-massager
 
 2. Open the project in Arduino IDE.
 3. Select **ESP32** as the board.
@@ -41,7 +56,7 @@ git clone https://github.com/yourusername/scalp-massager.git cd scalp-massager
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Connect the device to the power source.
 2. Access the Wi-Fi server by entering the IP address shown in the Serial Console.
@@ -50,11 +65,30 @@ git clone https://github.com/yourusername/scalp-massager.git cd scalp-massager
 
 ---
 
-## 📝 Future Improvements
+## Future Improvements
 
 - Make the battery smaller and more efficient.
 - Add a mobile app for easier control.
 - Implement additional massage patterns.
 - Finalize and integrate vibration functionality.
+
+---
+
+
+## 📁 CAD Files
+
+All 3D models and mechanical design files are located in the [`cad/`](cad/) folder.
+
+---
+
+## 📷 Assets
+
+- High-resolution project photos and wiring diagrams are in the [`assets/`](assets/) folder.
+
+---
+
+## 🤖 Firmware
+
+Find the Arduino sketch and supporting firmware code in the [`firmware/`](firmware/) folder.
 
 ---
