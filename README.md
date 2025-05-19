@@ -75,20 +75,34 @@ cd scalp-massager
 ---
 
 
-## 📁 CAD Files
+## CAD Files
 
 All 3D models and mechanical design files are located in the [`cad/`](cad/) folder.
 
 ---
 
-## 📷 Assets
+## Assets
 
 - High-resolution project photos and wiring diagrams are in the [`assets/`](assets/) folder.
 
 ---
 
-## 🤖 Firmware
+## Firmware
 
 Find the Arduino sketch and supporting firmware code in the [`firmware/`](firmware/) folder.
+
+---
+
+### Buy Components
+
+For convenience, here are direct Amazon links to the components used in this project:
+
+- [ESP32 Development Board](https://www.amazon.com/dp/B0718T232Z)
+- [Bidirectional Logic Level Converter (5V to 3.3V)](https://www.amazon.com/dp/B08G4M9C8G)
+- [4-Channel Relay Module with Optocoupler (12V)](https://www.amazon.com/AEDIKO-Channel-Optocoupler-Support-Trigger/dp/B099MC4TJD?th=1)
+- [12V Linear Actuator](https://www.amazon.com/dp/B07Q1ZV4MJ)
+- [Solderless Breadboard](https://www.amazon.com/dp/B07DL13RZH)
+- [12V Rechargeable Lithium Battery Pack](https://www.amazon.com/dp/B0C241NS29)
+- [Lithium Battery Charger](https://www.amazon.com/dp/B07F7W91LC)
 
 ---
