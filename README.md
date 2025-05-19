@@ -59,7 +59,9 @@ cd scalp-massager
 ## Usage
 
 1. Connect the device to the power source.
-2. Access the Wi-Fi server by entering the IP address shown in the Serial Console.
+2. Access the Wi-Fi server:
+    - By entering the IP address shown in the Serial Console, or
+    - By visiting http://scalpmasseuse.local/ (on networks and devices that support mDNS).
 3. To update SSID and password, connect the ESP32 to a PC and edit the sketch or `.ino` file.
 4. Control the massager via the provided interface.
 
